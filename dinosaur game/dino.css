@@ -1,0 +1,13 @@
+#board {
+    background-color: green;
+    border-bottom: 10px solid black;
+}
+
+body {
+    text-align: center;
+}
+
+#score {
+    text-align: center;
+    color: red;
+}
